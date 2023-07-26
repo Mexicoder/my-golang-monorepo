@@ -1,0 +1,4 @@
+github.com/Mexicoder/my-golang-monorepo/deeper-module/double-linked-list v0.0.0-20230726151753-d40d73f18c86 h1:9ODbTtVPXdalUbuOy7dBYCGPSzG0L6MTop/m0D+7yzk=
+github.com/Mexicoder/my-golang-monorepo/deeper-module/double-linked-list v0.0.0-20230726151753-d40d73f18c86/go.mod h1:x0tdkJnVlPcEPwYsnrNuPd9oav5gO15m35t1bkfPVNY=
+github.com/Mexicoder/my-golang-monorepo/linked-list v0.0.0-20230726145823-9b47e3aedbb5 h1:bkPXFKdQysvBW7QzbfsF9FzhO787UK/i5d+WIoUhdqk=
+github.com/Mexicoder/my-golang-monorepo/linked-list v0.0.0-20230726145823-9b47e3aedbb5/go.mod h1:Alaril3k7srG/nthh2yKeS7ctafTbzODT6ZtwDhiTEg=
